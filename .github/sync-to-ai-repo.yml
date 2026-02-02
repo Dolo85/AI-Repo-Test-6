@@ -3,7 +3,7 @@ name: Sync ServiceNow Repo to AI Codebase
 on:
   push:
     branches:
-      - sn_instances/dev316185
+      - main
 
 permissions:
   contents: write
